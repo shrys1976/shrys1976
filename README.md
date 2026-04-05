@@ -9,4 +9,5 @@ Currently focused on understanding how deep learning systems work under the hood
 Open to collaboration, internships, and building interesting things.
 
 LinkedIn: https://www.linkedin.com/in/shreyas-jain-7778aa211/
-Email: [shreyasjain2076@gmail.com]
+
+Email: shreyasjain2076@gmail.com
