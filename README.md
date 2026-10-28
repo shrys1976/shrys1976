@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas
 
-Building Privra(AI Native Privacy Compliance Infrastructure for India).
+Building Privra [privra.in] (AI Native Privacy Compliance Infrastructure for India).
 
 Also trying to understand how deep learning systems work.
 
