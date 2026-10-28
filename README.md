@@ -1,8 +1,8 @@
 # Hi, I'm Shreyas
 
-I build backend systems and machine learning infrastructure.
+Building Privra(AI Native Privacy Compliance Infrastructure for India).
+also trying to understand how deep learning systems work.
 
-Currently focused on understanding how deep learning systems work.
 
 ## Contact
 
